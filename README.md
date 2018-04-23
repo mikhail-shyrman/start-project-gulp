@@ -21,7 +21,8 @@
 - https://www.kunkalabs.com/mixitup/ // MixItUp 3 jQuery layout
 - https://sass-scss.ru/ //Sass
 - https://icomoon.io/ - //Font & SVG
-- https://realfavicongenerator.net/ - //Favicon generator
+- https://realfavicongenerator.net/ //Favicon generator
+- https://www.cssmatic.com/box-shadow //Shadow generator
 
 **Git Resource:**
 * slick-carousel
